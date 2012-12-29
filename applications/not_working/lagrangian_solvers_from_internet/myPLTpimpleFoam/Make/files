@@ -1,0 +1,3 @@
+myPLTpimpleFoam.C
+
+EXE = $(FOAM_APPBIN)/myPLTpimpleFoam

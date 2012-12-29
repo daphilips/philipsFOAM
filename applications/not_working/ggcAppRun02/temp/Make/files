@@ -1,0 +1,3 @@
+ggcAppRun02.C
+
+EXE = $(FOAM_APPBIN)/ggcAppRun02

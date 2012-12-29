@@ -1,0 +1,4 @@
+/* Patch fields */
+turbulentMixingLengthOmegaInletFvPatchScalarField.C
+
+LIB = $(FOAM_USER_LIBBIN)/libturbulentMixingLengthOmegaInletFvPatchScalarField

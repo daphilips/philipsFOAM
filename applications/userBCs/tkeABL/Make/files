@@ -1,0 +1,3 @@
+functionTkeFvPatchScalarField.C
+
+LIB = $(FOAM_USER_LIBBIN)/libmyBCsTke

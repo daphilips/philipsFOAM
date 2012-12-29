@@ -1,0 +1,3 @@
+functionEpsFvPatchScalarField.C
+
+LIB = $(FOAM_USER_LIBBIN)/libmyBCsEps

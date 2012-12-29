@@ -1,0 +1,3 @@
+GGCInjection.C
+
+LIB = $(FOAM_USER_LIBBIN)/liblagragianGGCInjection

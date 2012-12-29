@@ -1,0 +1,7 @@
+KINEMATICINJECTION=InjectionModels
+$(KINEMATICINJECTION)/KinematicLookupTableInjection/kinematicParcelInjectionData.C
+$(KINEMATICINJECTION)/KinematicLookupTableInjection/kinematicParcelInjectionDataIO.C
+$(KINEMATICINJECTION)/KinematicLookupTableInjection/kinematicParcelInjectionDataIOList.C
+
+
+LIB = $(FOAM_USER_LIBBIN)/liblagragianGGCInjection
